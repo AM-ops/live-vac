@@ -1,6 +1,8 @@
 # live-vac
 Agenda/Diary based app for Livestock Vaccinations and Management
 
+## App name: LiveVac
+
 ## Team name: 234-Technologies
 
 ## Team members:
@@ -8,5 +10,5 @@ Agenda/Diary based app for Livestock Vaccinations and Management
 2. Louw Pretorius
 3. Affaan Muhammad
 
-## Description:
+## About App:
 Agenda/Diary based app for Livestock Vaccinations and Management
