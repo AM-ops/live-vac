@@ -1,4 +1,6 @@
 # live-vac
+App created for #MTNBusinessHack held between 06th and 09th August 2021
+
 Agenda/Diary based app for Livestock Vaccinations and Management
 
 ## App name: LiveVac
