@@ -15,6 +15,6 @@ Agenda/Diary based app for Livestock Vaccinations and Management
 
 ## Todo:
 - [x] Implement Django Rest Framework as a Backend API
-- [ ] Host API
-- [ ] Implemet Frontend with React Native
+- [x] Host API
+- [x] Implemet Frontend with React Native
 - [ ] Build and publish App
